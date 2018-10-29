@@ -89,6 +89,6 @@ open(allblock);
  }
 win(); 
 
-
+console.log('my game is fine');
  
 
