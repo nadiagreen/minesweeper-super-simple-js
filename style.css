@@ -1,0 +1,15 @@
+    #game {
+    width: 200px;
+    height: 200px;
+    
+     
+}
+ .block {
+    width: 20px;
+    height: 20px;
+    float: left;
+    box-sizing: border-box;
+     border: 1px solid black;
+     text-align: center;
+     background:  linear-gradient( white, rgb( 72, 109, 159 ) );
+} 	
